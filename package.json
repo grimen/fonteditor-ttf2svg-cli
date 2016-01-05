@@ -1,9 +1,9 @@
 {
   "name": "fonteditor-ttf2svg-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "CLI for converting  `TTF` fonts to `SVG` fonts using `fonteditor` core library.",
   "keywords": ["ttf", "TTF", "TrueType", "svg", "SVG", "ScalableVectorGraphics", "font", "fontface", "font-face", "glyph", "glyphs", "path", "fonteditor", "ttf2svg", "ttf-2-svg", "ttf-to-svg", "converter", "generator", "transformer", "cli"],
-  "homepage": "https://github.com/grimen/svg-fontglyphs2svg",
+  "homepage": "https://github.com/grimen/fonteditor-ttf2svg-cli",
   "author": "Jonas Grimfelt <grimen@gmail.com>",
   "license": "MIT",
   "repository": {
